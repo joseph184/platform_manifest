@@ -24,6 +24,7 @@
   <project path="packages/apps/XenonApps" name="TeamHorizon/android_packages_apps_XenonApps" revision="o" />
   <project path="packages/apps/XenonOTA" name="TeamHorizon/android_packages_apps_XenonOTA" revision="o-test" >
     <linkfile src="server/opendelta.sh" dest="opendelta.sh" />
+  </project>
   <project path="vendor/xenonhd" name="TeamHorizon/vendor_xenonhd" revision="o" />
 
 </manifest>
