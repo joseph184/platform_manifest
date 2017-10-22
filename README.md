@@ -37,7 +37,7 @@ Initializing the XenonHD Source:
 
 For initializing repo use:
 
-    repo init -u https://github.com/TeamHorizon/platform_manifest.git -b n
+    repo init -u https://github.com/joseph184/platform_manifest.git -b n
 
 Syncing repo:
 
